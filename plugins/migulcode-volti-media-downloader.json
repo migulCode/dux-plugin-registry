@@ -2,8 +2,7 @@
   "id": "voltiMediaDownloader",
   "name": "Volti Media Downloader",
   "capabilities": [
-    "dankbar-widget",
-    "ipc"
+    "dankbar-widget"
   ],
   "category": "utilities",
   "repo": "https://github.com/migulCode/volti-media-downloader",
